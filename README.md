@@ -1,33 +1,46 @@
-# HealthConnect Rwanda – Week 7: Testing & Project Readiness
+# HealthConnect Rwanda – Data Analytics: Testing & Validation
 
-## Overview
-Week 7 of the **AnalystLab Africa Internship** focused on testing, validating and refining the HealthConnect Rwanda Data Analytics solution while coordinating preparations for Week 8 final integration.
+**AnalystLab Africa Internship | Week 7 | Data Analytics Track**
 
-Building on the Week 5 analysis and Week 6 dashboard improvements, the focus shifted to analytical accuracy, data consistency, dashboard reliability and business usefulness.
+## Project Overview
+
+Week 7 focused on analytical testing, KPI validation, and dashboard refinement for the HealthConnect Rwanda project.
+
+Building on the executive dashboard and business insights developed in Week 6, this phase concentrated on verifying analytical accuracy, investigating inconsistencies, improving visualisations, and ensuring that findings remained reliable across relevant segments.
 
 ## Key Activities
-- Reviewed Week 6 analytical outputs and validated important KPIs.
-- Checked dashboard figures against underlying datasets.
-- Tested dashboard filters, calculations and interactions.
-- Investigated inconsistent results and reassessed attendance/no-show findings.
-- Validated key findings across relevant segments.
-- Refined visualisations, dashboard usability and business interpretation.
-- Updated business insights and recommendations.
-- Documented testing evidence, limitations and outstanding issues.
-- Coordinated cross-track findings, dependencies and integration requirements.
-- Updated project timelines, testing trackers, risk registers and decision logs.
-- Assessed Week 8 readiness and outstanding integration actions.
 
-## Deliverables
+- Reviewed Week 6 dashboard outputs and identified KPIs requiring validation.
+- Tested DAX calculations against underlying datasets.
+- Verified dashboard values, filters, and analytical consistency.
+- Investigated unexpected results and reassessed attendance and no-show findings.
+- Validated key findings across relevant data segments.
+- Identified analytical weaknesses and refined misleading visualisations.
+- Improved dashboard usability and business interpretation.
+- Reassessed recommendations using testing results.
+- Documented changes, testing evidence, and remaining limitations.
+
+## Key Deliverables
+
 - HealthConnect Analytics Testing & Refinement Report/Notebook.
-- KPI and dashboard validation evidence.
-- Refined visualisations and updated business insights.
-- Testing activity tracker and integration issue log.
-- Risk and dependency register.
-- Decision and cross-track coordination records.
-- Testing progress report.
-- Week 8 readiness assessment and outstanding actions.
+- KPI validation results.
+- Analytical testing evidence.
+- Dashboard testing and refinement evidence.
+- Updated business insights and recommendations.
+- Before-and-after visualisation improvements, where applicable.
+- Cross-track analytical contributions.
+- Remaining issues and Week 8 recommendations.
 
-**Outcome:** Strengthening the reliability, consistency and readiness of the HealthConnect Rwanda solution for final integration.
+## Tools & Skills
 
-**Programme:** AnalystLab
+Power BI | DAX | SQL | Excel | KPI Validation | Dashboard Testing | Data Quality | Analytical Testing | Data Visualization | Business Intelligence
+
+## Project Outcome
+
+Week 7 strengthened the reliability and business relevance of the HealthConnect Rwanda analytical outputs by focusing on validation rather than rebuilding previous dashboards.
+
+**Project:** HealthConnect Rwanda  
+**Program:** AnalystLab Africa Internship  
+**Track:** Data Analytics  
+**Week:** 7  
+**Prepared by:** Victoria Kosgei
